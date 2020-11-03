@@ -116,7 +116,7 @@ def make_plot(columnsName, xlabel, ylabel,title):
     ax.set_title(title)
     ax.xaxis.set_major_formatter(StrMethodFormatter('{x:,g}'))
 
-#Run wen you want to shuffle and remake a CSV file.
+#Run when you want to shuffle and remake a the CSV file.
 # load_slice_dataframes()
 
 df_kaggle_reviews = pd.read_csv('.\labeled_data.csv')
