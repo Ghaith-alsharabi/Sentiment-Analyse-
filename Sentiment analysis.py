@@ -1,6 +1,6 @@
 """
-This program is wrote to be runed in Python Interactive Window. 
-So each couple of lines can be runed together without the needing to run all the script.
+This program is wrote to be runned in Python Interactive Window. 
+So each couple of lines can be runned together without the needing to run all the script.
 
 """
 from sqlalchemy import create_engine
